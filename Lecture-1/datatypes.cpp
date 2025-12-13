@@ -16,7 +16,7 @@ int main()
     char c = 'a';
     bool num = false;
     long long d = 327298314793712;
-    string name = "Rohit Negi";
+    string name = "Tanishka Yadav";
 
     // cout<<"a";
 
