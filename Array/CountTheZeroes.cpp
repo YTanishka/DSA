@@ -20,7 +20,7 @@ int countZeroes(vector<int> &arr)
 
 int main()
 {
-    vector<int> arr = {1,1,1,0,0,0,0};
+    vector<int> arr = {1, 1, 1, 0, 0, 0, 0};
     int result = countZeroes(arr);
     cout << "Number of zeroes: " << result << endl;
     return 0;
